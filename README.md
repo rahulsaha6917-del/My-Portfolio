@@ -1,6 +1,7 @@
 <!-- 🎉 Welcome Banner -->
 <h1 align="center">Welcome to My Personal Website 👋</h1>
 
+<img width="1835" height="7400" alt="image" src="https://github.com/user-attachments/assets/81191eb0-110d-47c9-a61b-43700cf0f162" />
 
 
 
