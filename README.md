@@ -2,6 +2,8 @@
 <h1 align="center">Welcome to My Personal Website 👋</h1>
 
 <img width="1843" height="4625" alt="image" src="https://github.com/user-attachments/assets/14593465-27a4-44ba-90d8-786e02937977" />
+<img width="1834" height="3401" alt="image" src="https://github.com/user-attachments/assets/80816cf4-54e2-4c6c-b231-3c76f9289622" />
+
 
 
 
